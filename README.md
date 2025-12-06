@@ -1,6 +1,6 @@
 # MilaPsycology.com
 
-This is a simple website for a psychologist, designed to showcase services, provide contact information, and allow users to easily book consultations. The design is clean, light, and pastel-colored, creating a calming atmosphere. The website includes sections for the psychologist’s bio, services, testimonials, contact information, and a photo gallery.
+This is a website for a psychologist, designed to showcase services, provide contact information, and allow users to easily book consultations. The design is clean, light, and pastel-colored, creating a calming atmosphere. The website includes sections for the psychologist’s bio, services, testimonials, contact information, and a photo gallery.
 
 ## Features
 
