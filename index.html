@@ -827,6 +827,15 @@
     color: rgba(245,240,232,0.25);
   }
 
+  .footer-bottom a {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.72rem;
+    color: rgba(245,240,232,0.25);
+  }
+
+  .footer-bottom a:hover { color: var(--clay); }
+
   /* ANIMATIONS */
   @keyframes fadeUp {
     from { opacity: 0; transform: translateY(24px); }
@@ -911,7 +920,7 @@
       <div class="hero-photo-placeholder"></div>
       <div class="hero-photo-text">
         <div class="photo-icon">📷</div>
-        <span style="font-size:0.75rem; letter-spacing:0.1em; text-transform:uppercase;">Ваше фото</span>
+        <span style="font-size:0.75rem; letter-spacing:0.1em; text-transform:uppercase;">Coming Soon</span>
       </div>
     </div>
   </div>
@@ -1313,7 +1322,7 @@
 </footer>
 <div class="footer-bottom">
   <span>© 2026 Людмила Кудряшова, психолог</span>
-  <span>Политика конфиденциальности</span>
+  <span><a href="privacy-policy.html">Политика конфиденциальности</a></span>
 </div>
 
 <script>
